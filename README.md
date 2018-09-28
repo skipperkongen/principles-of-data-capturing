@@ -1,4 +1,4 @@
-# Principles of data capturing
+# Principles of data capture
 
 > MAke running example, starting with full text and progressively enhancing.
 
