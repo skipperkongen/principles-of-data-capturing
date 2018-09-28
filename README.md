@@ -1,4 +1,6 @@
-# Principles of web analytics for data science
+# Principles of data capturing
+
+> MAke running example, starting with full text and progressively enhancing.
 
 Many companies want to improve their business by capturing the data from their systems, e.g. they might track the behaviour of customers on the company website to discover their needs. Capturing data and events helps the company make decisions that are based on facts instead of speculation.
 
