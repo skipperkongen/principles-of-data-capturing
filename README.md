@@ -1,6 +1,6 @@
 # Principles of data capture
 
-> MAke running example, starting with full text and progressively enhancing.
+> MAke running example, starting with full text and progressively enhance
 
 Many companies want to improve their business by capturing the data from their systems, e.g. they might track the behaviour of customers on the company website to discover their needs. Capturing data and events helps the company make decisions that are based on facts instead of speculation.
 
